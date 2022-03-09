@@ -1,6 +1,6 @@
 # 🏷️ Return Fortran
 
-![fortran Logo](https://img.icons8.com/color/98/000000/fortran.png)
+<!-- ![fortran Logo](https://img.icons8.com/color/98/000000/fortran.png) -->
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/dileepabandara/return-fortran?color=red&label=repository%20size)
